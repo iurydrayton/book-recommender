@@ -1,0 +1,17 @@
+# Dependências
+node_modules/
+
+# Variáveis de ambiente (senhas e chaves de API)
+.env
+
+# Pastas de build/compilação
+dist/
+build/
+
+# Logs do sistema
+npm-debug.log*
+yarn-error.log*
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
